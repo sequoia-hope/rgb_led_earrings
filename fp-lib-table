@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "parts")(type "KiCad")(uri "${KIPRJMOD}/parts")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/parts/TPS22913BYZVR/footprints.pretty")(options "")(descr ""))
+  (lib (name "parts2")(type "KiCad")(uri "${KIPRJMOD}/parts.pretty")(options "")(descr ""))
 )
